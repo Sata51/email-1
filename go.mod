@@ -1,1 +1,1 @@
-module github.com/Sata-51/email-1
+module github.com/Sata51/email-1
